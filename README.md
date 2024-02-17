@@ -30,7 +30,7 @@
 </ul>
 
 <h3>Hero Section</h3>
-<img src="./readme-bm/hero.png" width="50%">
+<img src="./readme-bm/hero.PNG" width="50%">
 <p>He tomado una imagen de fondo donde se ve al cantante principal de Arctic Monkeys en primer plano pudiendose ver perfectamente incluso para dispositivos móviles. Sobre ella he puesto en grande como título "ARCTIC MONKEYS" y un blockquote del título de una de sus canciones "I Bet You Look Good on the Dancefloor"</p>
 
 <h3>Discografía</h3>
