@@ -31,7 +31,7 @@
 
 <h3>Hero Section</h3>
 <img src="./readme-bm/hero.PNG" width="50%">
-<p>He tomado una imagen de fondo donde se ve al cantante principal de Arctic Monkeys en primer plano pudiendose ver perfectamente incluso para dispositivos móviles. Sobre ella he puesto en grande como título "ARCTIC MONKEYS" y un blockquote del título de una de sus canciones "I Bet You Look Good on the Dancefloor"</p>
+<p>He tomado una imagen de fondo donde se ve al cantante principal de Arctic Monkeys en primer plano pudiendose ver perfectamente incluso para dispositivos móviles. Sobre ella he puesto en grande como título "ARCTIC MONKEYS" y un título de una de sus canciones "I Bet You Look Good on the Dancefloor"</p>
 
 <h3>Discografía</h3>
 <img src="./readme-bm/discography.png" width="50%">
@@ -51,7 +51,7 @@
 
 <h3>Footer</h3>
 <img src="./readme-bm/footer.png" width="50%">
-<p>En el footer de la página he utilizado otro grid de 3 columnas colocando una repetición de la barra de navegación junto a otro enlace a la página oficial de Arctic Monkeys y sus redes sociales. Abajo de este he puesto en un CODE SNIPPET 'Modal' el proposito con el que se ha creado la página y de quienes son las imagenes, música y merchandising utilizados.</p>
+<p>En el footer de la página he utilizado otro grid de 3 columnas colocando una repetición de la barra de navegación junto a otro enlace a la página oficial de Arctic Monkeys, sus redes sociales y un formulario de contacto. Abajo de este he puesto en un CODE SNIPPET 'Modal' el proposito con el que se ha creado la página y de quienes son las imagenes, música y merchandising utilizados.</p>
 
 <h2 id="estilo">Estilo</h2>
 <h3>Paleta de colores</h3>
